@@ -15,4 +15,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Version|Comparaison
 --:|:--
-[HEAD] | [master branch](https://github.com/Iuzziel/rustworker/src/master)
+[HEAD] | [master branch](https://github.com/Iuzziel/rustworker/)
