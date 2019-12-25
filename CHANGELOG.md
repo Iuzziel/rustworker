@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - License file.
 - Readme file.
 - Cargo config file.
+- Rocket config file.
 
 Version|Comparaison
 --:|:--
